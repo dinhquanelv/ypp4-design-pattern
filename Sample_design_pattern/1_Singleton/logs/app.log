@@ -1,0 +1,24 @@
+[2026-01-05 14:48:23] [Info] Creating user: john_doe
+[2026-01-05 14:48:23] [Info] User john_doe created successfully
+[2026-01-05 14:48:23] [Info] Processing payment: $99.99
+[2026-01-05 14:48:23] [Error] Payment failed for amount $99.99
+Exception: System.Exception: Payment gateway timeout
+   at PaymentService.ProcessPayment(Decimal amount) in E:\BBV\YPP4\ypp4-design-pattern\Sample_design_pattern\1_Singleton\LoggerService.cs:line 96
+[2026-01-05 14:49:41] [Info] Creating user: john_doe
+[2026-01-05 14:49:41] [Info] User john_doe created successfully
+[2026-01-05 14:49:41] [Info] Processing payment: $99.99
+[2026-01-05 14:49:41] [Error] Payment failed for amount $99.99
+Exception: System.Exception: Payment gateway timeout
+   at PaymentService.ProcessPayment(Decimal amount) in E:\BBV\YPP4\ypp4-design-pattern\Sample_design_pattern\1_Singleton\LoggerService.cs:line 96
+[2026-01-05 15:00:06] [Info] Creating user: john_doe
+[2026-01-05 15:00:06] [Info] User john_doe created successfully
+[2026-01-05 15:00:06] [Info] Processing payment: $99.99
+[2026-01-05 15:00:06] [Error] Payment failed for amount $99.99
+Exception: System.Exception: Payment gateway timeout
+   at PaymentService.ProcessPayment(Decimal amount) in E:\BBV\YPP4\ypp4-design-pattern\Sample_design_pattern\1_Singleton\LoggerService.cs:line 96
+[2026-01-05 15:05:16] [Info] Creating user: john_doe
+[2026-01-05 15:05:16] [Info] User john_doe created successfully
+[2026-01-05 15:05:16] [Info] Processing payment: $99.99
+[2026-01-05 15:05:16] [Error] Payment failed for amount $99.99
+Exception: System.Exception: Payment gateway timeout
+   at PaymentService.ProcessPayment(Decimal amount) in E:\BBV\YPP4\ypp4-design-pattern\Sample_design_pattern\1_Singleton\LoggerService.cs:line 96
