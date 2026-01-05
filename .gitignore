@@ -1,0 +1,41 @@
+## Build & Debug Output
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+
+## Visual Studio & IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Plugins & Tools
+_ReSharper*/
+*.JetBrains.user
+.idea/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Environment Config & Secrets 
+appsettings.Development.json
+appsettings.Production.json
+appsettings.local.json
+secrets.json
+
+## Nuget packages (Trong trường hợp bạn restore local)
+*.nupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+## OS Specific Files
+.DS_Store
+Thumbs.db
